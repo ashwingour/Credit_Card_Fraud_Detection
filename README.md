@@ -1,3 +1,5 @@
-# Credit_Card_NN
+# Credit_Card_Fraud_Detection
 Here, I am working on detecting Credit Card Fraud based on the dataset from kaggle.com.
-Here we can also use Logistic Regression.
+It does contain PCA transformation of the original data due to confidentiality issues.
+Only Time and Amount are the only untransformed features in the datasets except Features V1, V2, V3,....V28.
+Class 0 represent nonfradulent and Class 1 imples fraud in the transaction. 
